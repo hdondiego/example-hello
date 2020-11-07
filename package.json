@@ -9,7 +9,8 @@
   },
   "author": "Hector",
   "dependencies": {
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "zip-folder": "^1.0.0"
   },
   "license": "MIT"
 }
