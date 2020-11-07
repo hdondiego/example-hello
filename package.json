@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Displays Hello World",
   "private": true,
-  "main": "helloworld.js",
   "scripts": {
     "start": "node helloworld.js"
   },
